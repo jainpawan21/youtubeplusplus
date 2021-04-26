@@ -1,0 +1,17 @@
+.otherUserChat{
+    /* text-align: left; */
+    /* text-decoration: black; */
+    background-color: rgb(255, 255, 255);
+}
+
+.currentUserChat{
+    /* text-align: right; */
+    background-color:rgb(180, 170, 190);
+
+}
+
+.textChat{
+    background-color:rgb(190, 50, 50);
+}
+
+
